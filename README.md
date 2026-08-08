@@ -50,6 +50,6 @@ Feel free to reach out! I'm always open to discussing new projects, creative ide
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fathangunawan19@gmail.com)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
 
-<img src="https://komarev.com/ghpvc/?username=dhanisfathan&label=Profile%20Visitors&color=2F81F7&style=flat-square" alt="Profile Views" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Dhnth&label=Profile%20Visitors&color=2F81F7&style=flat-square" alt="Profile Views" align="center" />
 
 </div>
