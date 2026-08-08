@@ -28,15 +28,15 @@ Let the numbers do the talking!
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dhanisfathan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Dhanis's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Dhnth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Dhanis's GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanisfathan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhnth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanisfathan&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhnth&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
