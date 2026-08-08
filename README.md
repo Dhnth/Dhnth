@@ -27,7 +27,7 @@ Here are the tools and technologies I work with:
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Dhnth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Dhanis's GitHub Stats" />
+a
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhnth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
