@@ -23,7 +23,6 @@ Here are the tools and technologies I work with:
 ---
 
 ###  GitHub Stats
-Let the numbers do the talking! 
 
 <table border="0">
   <tr>
