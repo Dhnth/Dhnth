@@ -37,8 +37,8 @@ Here are the tools and technologies I work with:
 ### Connect with Me
 Feel free to reach out! I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/dhanisfathan](https://www.linkedin.com/in/dhanis-fathan-gunawan-8b1909388/))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/dhanisfathan](https://www.instagram.com/dhan_1s/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanis-fathan-gunawan-8b1909388/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhan_1s/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fathangunawan19@gmail.com)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
 
