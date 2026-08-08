@@ -26,14 +26,6 @@ Here are the tools and technologies I work with:
 
 <table border="0">
   <tr>
-    <td>
-a
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhnth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
     <td colspan="2" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhnth&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
     </td>
