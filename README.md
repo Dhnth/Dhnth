@@ -9,9 +9,6 @@
 </p>
 
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=dhnth&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=dhnth&theme=github-dark" alt="dhnth stats visual" /></picture>
-</p>
 
 ## Tech Stack
 
@@ -27,9 +24,13 @@ Here are the tools and technologies I work with:
 
 ## Stats
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=dhnth&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=dhnth&theme=github-dark" alt="GitHub Stats" /></picture>
-</p>
+<table border="0">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhnth&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">
@@ -42,7 +43,11 @@ Here are the tools and technologies I work with:
 
 ##  Connect With Me
 
+<div align="center">
+
+
 Feel free to reach out! I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanis-fathan-gunawan-8b1909388/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhan_1s/)
@@ -50,6 +55,6 @@ Feel free to reach out! I'm always open to discussing new projects, creative ide
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
 
 <img src="https://komarev.com/ghpvc/?username=Dhnth&label=Profile%20Visitors&color=2F81F7&style=flat-square" alt="Profile Views" align="center" />
-
+</div>
 
 ---
