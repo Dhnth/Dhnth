@@ -23,6 +23,10 @@ Here are the tools and technologies I work with:
 </div>
 
 ## Stats
+<div align="center">
+
+
+<br/>
 
 <table border="0">
   <tr>
@@ -31,7 +35,7 @@ Here are the tools and technologies I work with:
     </td>
   </tr>
 </table>
-
+</div>
 
 <p align="center">
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=dhnth&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/heatmap?username=dhnth&theme=github-dark" alt="dhnth contribution activity" /></picture>
