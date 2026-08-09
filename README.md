@@ -1,4 +1,4 @@
-# Hi, I'm Dhanis Fathan Gunawan 👋
+# Hi, I'm Dhanis Fathan Gunawan 
 
 <p align="center">
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=dhnth&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/wordmark?username=dhnth&theme=github-dark" alt="dhnth wordmark visual" /></picture>
@@ -15,17 +15,15 @@
 
 ## Tech Stack
 
+<div align="center">
+
 Here are the tools and technologies I work with:
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<br/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+
+</div>
 
 ## Stats
 
@@ -33,23 +31,6 @@ Here are the tools and technologies I work with:
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=dhnth&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=dhnth&theme=github-dark" alt="GitHub Stats" /></picture>
 </p>
 
-## Projects
-
-### [daftarMurid](https://github.com/Dhnth/daftarMurid) `PHP`
-No description provided
-⭐ 0 | 🍴 0
-
-### [Absensi-lnext](https://github.com/Dhnth/Absensi-lnext) `TypeScript`
-No description provided
-⭐ 0 | 🍴 0
-
-### [DODOLREQ](https://github.com/Dhnth/DODOLREQ) `JavaScript`
-No description provided
-⭐ 0 | 🍴 0
-
-### [VisiTrack](https://github.com/Dhnth/VisiTrack) `TypeScript`
-No description provided
-⭐ 0 | 🍴 0
 
 <p align="center">
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=dhnth&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/heatmap?username=dhnth&theme=github-dark" alt="dhnth contribution activity" /></picture>
